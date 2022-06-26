@@ -1,6 +1,6 @@
 ## 项目命名规范
- - 前端:fl_frontend_项目名
- - 后端:fl_backend_项目名
+ - 前端:frontend_项目名
+ - 后端:backend_项目名
 
 ## 版本分支
  - master:主分支，进行版本发布分支，不在该分支上进行开发。
